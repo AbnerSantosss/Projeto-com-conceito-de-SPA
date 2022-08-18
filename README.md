@@ -9,7 +9,8 @@
 * Flex-box
 * Variavéis Css
 
->  Preview ⬇️⬇️
+>  Preview ⬇️⬇️ <p>Veja o projeto online clicando <a href="https://spauniversee.netlify.app/">Aqui!</a></p>
+
 
 
 ![Cópia de Pack Premium  Feed  - COMPLETA (3)](https://user-images.githubusercontent.com/107922389/180076830-202d984e-add3-4935-97dd-5986f95b6681.gif)
